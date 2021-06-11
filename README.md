@@ -32,3 +32,6 @@ tailwind.css
 axios
 vuex
 ```
+## Back-end
+
+<a>https://github.com/vieira96/api-sistema-estoque</a>
