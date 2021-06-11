@@ -25,7 +25,7 @@ iniciar o servidor.
 ## Tecnologias utilizadas
 
 ```
-VueJs
+VueJs 2
 vee-validate - Validação de formulários.
 vue-router
 tailwind.css
